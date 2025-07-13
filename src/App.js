@@ -8,7 +8,6 @@ import { ProjectOne, ProjectTwo, ProjectThree } from './component/landingPage/CS
 function App() {
   return (
     <div>
-      <a href="https://reactjs.org">Learn React</a>
       <Router>
         <div className="App">
           <header className="App-header">
