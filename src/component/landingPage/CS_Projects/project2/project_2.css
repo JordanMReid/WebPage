@@ -1,0 +1,49 @@
+.AttackSenario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.TechnicalReport {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}  
+
+.TechnicalReport h2 {
+  margin-bottom: 2rem;
+}
+
+.TechnicalReport h3 {
+  margin: 2rem 0 2rem 0;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  gap: 2rem;
+  width: 100%;
+}
+
+.ExecutiveReport {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.ExecutiveReport h2 {
+  margin-bottom: 2rem;
+}
+
+span {
+  font-weight: bold;
+  color: #000;
+}
+
+ul {
+  list-style-type: square;
+  margin-left: 1rem;
+}
