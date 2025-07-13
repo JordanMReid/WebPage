@@ -10,7 +10,7 @@ function App() {
     <div>
       <Router>
         <div className="App">
-          <header className="App-header">
+          <header className="jordan-reid.dev>
           </header>
           <main>
             <Routes>
