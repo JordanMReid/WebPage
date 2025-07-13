@@ -2,7 +2,6 @@
 import { useNavigate } from 'react-router-dom';
 import './home.css'
 import './mediaqueries.css'
-import './script'
 import Nav from '../component/nav/Nav.js';
 import CSDomain from '../component/Functions/CS_Domain.js';
 import Resume from '../assets/Jordan_Reid_Resume.pdf';
