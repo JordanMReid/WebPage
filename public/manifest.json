@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Jordan Reid",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -9,12 +9,12 @@
     },
     {
       "src": "FlowerIcon.jpg",
-      "type": "image/png",
+      "type": "image/jpg",
       "sizes": "192x192"
     },
     {
       "src": "FlowerIcon.jpg",
-      "type": "image/png",
+      "type": "image/jpg",
       "sizes": "512x512"
     }
   ],
