@@ -18,7 +18,8 @@
 }
 
 .domain:hover {
-  background-color: #008cff;
+  background: #0070cc;
+  background: linear-gradient(96deg, rgba(0, 112, 204, 1) 0%, rgba(255, 255, 255, 1) 74%);
 }
 
 .domain-title {
