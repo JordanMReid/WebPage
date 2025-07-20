@@ -76,9 +76,9 @@ function Home() {
       <p className="section__text__p1">Get To Know More</p>
       <h1 className="title">About Me</h1>
       <div className="section-container">
-          <p>Hello and thank you for visitng my site, my name is Jordan Reid. I live in Winchester, MA, a suburban city just outside Boston.
+          <p>Hello, and thank you for visiting my site. My name is Jordan Reid. I live in Winchester, MA, a suburban city just outside Boston.
              From an early age, I’ve been captivated by technology, and I’m excited to bring my passion into the ever-evolving tech industry. Below,
-            you’ll find details about my education and professional experience.</p>
+            You’ll find details about my education and professional experience.</p>
         <div className="about__pic-container">
           <img
             src={jordan_pic2}
